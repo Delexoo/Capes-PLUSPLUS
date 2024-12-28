@@ -1,10 +1,12 @@
 Get access to the most iconic capes and more here! 
 
-# UPDATE 1.7!!
+# UPDATE 1.8!!
 
 • Added - Mojang Office Cape!
 
-• Added - Minecraft Experience Cape!
+• Added - A convenient button for quick access to Capes files!
+
+• Fixed - Broken GitHub link, & Bugs.
 
 
 
