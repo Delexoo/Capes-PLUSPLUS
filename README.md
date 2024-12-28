@@ -6,9 +6,6 @@ Get access to the most iconic capes and more here!
 
 • Added - MCC Cape!
 
-• Added - ICU Cape!
-
-• Added - Cherry Blossom Cape!
 
 
 # 3 Requirements:
