@@ -17,6 +17,4 @@ Get access to the most iconic capes and more here!
 • Only works for Minecraft version 1.8.9
 
 
-Feel free to checkout the source code for free on my GitHub: [https://github.com/Delexoo/Capes--/blob/main/Source%20Code]
-
-Visit my linktree for more! https://linktr.ee/delexo
+Feel free to checkout my other stuff [https://linktr.ee/delexo]
