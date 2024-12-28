@@ -4,7 +4,7 @@ Get access to the most iconic capes and more here!
 
 • Added - Mojang Office Cape!
 
-• Added - MCC Cape!
+• Added - Minecraft Experience Cape!
 
 
 
