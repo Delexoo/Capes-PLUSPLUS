@@ -3,6 +3,9 @@ Get access to the most iconic capes and more here!
 # UPDATE 1.7!!
 
 • Added - Mojang Office Cape!
+• Added - MCC Cape!
+• Added - ICU Cape!
+• Added - Cherry Blossom Cape!
 
 
 # 3 Requirements:
