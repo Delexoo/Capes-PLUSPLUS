@@ -7,7 +7,7 @@ Get access to the most iconic capes and more here!
 
 # 3 Requirements:
 
-• Only works on Windows Operating System
+• Only works on Windows Operating System (Minecraft Java Edition)
 
 • Currently works if you have at least one of the free Minecraft Capes (Migrator, Twitch, Mojang Office, Cherry Blossom, 15th Anni... etc...)
 
