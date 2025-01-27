@@ -1,4 +1,4 @@
-Get access to the most iconic capes and more here! 
+Get access to the most iconic MINECRAFT capes and more here! 
 
 # UPDATE 1.8!!
 
