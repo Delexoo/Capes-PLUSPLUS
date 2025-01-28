@@ -1,6 +1,6 @@
 Get access to the most iconic MINECRAFT capes and more here! 
 
-# UPDATE 1.8!!
+# UPDATE 1.7.1!!
 
 • Fixed - Broken GitHub link, & Bugs.
 
