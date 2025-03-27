@@ -18,6 +18,4 @@ Get access to the most iconic MINECRAFT capes and more here!
 
 # Additional information:
 
-PAID VERSION -> https://delexo.gumroad.com/l/wavof?layout=profile
-
-Feel free to checkout my other stuff [https://linktr.ee/delexo]
+PAID VERSION -> 
