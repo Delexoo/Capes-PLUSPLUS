@@ -18,4 +18,4 @@ Get access to the most iconic MINECRAFT capes and more here!
 
 # Additional information:
 
-PAID VERSION -> 
+PAID VERSION -> https://beacons.ai/hustleguide/digitalgoods
