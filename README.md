@@ -14,6 +14,7 @@ Get access to the most iconic MINECRAFT capes and more here!
 
 • Only works for Minecraft version 1.8.9
 
+
 # Additional information:
 
 PAID VERSION -> [https://beacons.ai/delexo](https://shop.beacons.ai/delexo/3f484dc8-435a-4a40-9be2-57b53c493c30)
